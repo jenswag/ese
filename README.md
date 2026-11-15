@@ -84,6 +84,8 @@ If you use the ESE model in scientific research, please cite the following paper
   journal = {Physical Chemistry Chemical Physics},
   publisher = {Royal Society of Chemistry (RSC)},
   author = {Wagner,  Jens and Romero,  Zeno and Münnemann,  Kerstin and Schmitt,  Sebastian and Specht,  Thomas and Hasse,  Hans and Jirasek,  Fabian},
-  year = {2026}
+  year = {2026},
+  volume = {8},
+  pages = {25407--25416}
 }
 ```
